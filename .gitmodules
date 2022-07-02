@@ -1,0 +1,3 @@
+[submodule "indexing"]
+	path = indexing
+	url = https://github.com/owolabioromidayo/godex
